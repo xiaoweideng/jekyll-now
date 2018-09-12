@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: Number Theory: Lucas number
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Lucas number is one of my research topic when I was an undergrad in UBC. Lucas number is less well-known than its "big brother", Fibonacci number, however, they both share some interesting identities and recurrence relation: $X_{n+1} = X_n + X_{n-1}$. Lucas number is defined as following:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+*Definition* Lucas numbers form a sequence, and are defined by the recurrence relation:
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+$$
+L_{n+1} = L_n + L_{n-1}, \text{where} n \geq 1
+$$
+
+with initial condition $L_0 = 2$, $L_1 = 1$.
