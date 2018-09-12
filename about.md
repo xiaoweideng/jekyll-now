@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Wilson Deng and I am currently studying in [Master of Data Science](https://masterdatascience.ubc.ca) at UBC.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dengweishun@hotmail.com](mailto:dengweishun@hotmail.com)
